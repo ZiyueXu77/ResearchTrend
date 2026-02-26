@@ -17,7 +17,7 @@ This project provides tools to:
 ### ML Conferences
 - **NeurIPS** (2023, 2024, 2025)
 - **ICML** (2023, 2024, 2025)
-- **ICLR** (2023, 2024, 2025)
+- **ICLR** (2023, 2024, 2025, 2026)
 
 ### CV Conferences
 - **CVPR** (2023, 2024, 2025)
