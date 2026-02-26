@@ -1,0 +1,24 @@
+# Data folders (large CSV/PDF datasets)
+Analyzed/
+Categorized_32B/
+Enriched/
+Raw/
+PDFs/
+Manual_Download/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment
+.env
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
